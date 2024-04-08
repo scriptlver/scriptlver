@@ -36,7 +36,7 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,python,java,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,python,java,html,git,github" /><br>
 </div>
 
 <br/>
