@@ -9,7 +9,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-<h3 align="center">a student of information systems :) </h3>
+<h3 align="center">estudante de sistemas de informação :) </h3>
 
 <br/>
 
@@ -17,13 +17,13 @@
 
  💞 **18**
 
- 💌**she/her**
+ 💌**ela/dela**
   
- 🩷 im in first semester at **university**
+ 🩷 estou no primeiro semestre da **universidade**
  
- ❣️ im currently learning **java and python**
+ ❣️ estou aprendendo **java e python**
 
- 💗 fun fact **im a brazilian with an intermediate level of english proficiency. im fluent in portuguese and have a knack for design. i specialize in adobe after effects and photoshop, where i create dynamic motion graphics and refine digital images. im passionate about exploring creative possibilities and constantly honing my skills in design and language.**
+ 💗 fato bônus! **sou brasileira e possuo um nível intermediário de inglês. adquiri habilidades em aplicativos de edição, como o after effects e o photoshop, e atualmente estou aprendendo java e python, com ênfase em desenvolvimento de back end.**
 
  </div>
  <div align="center"> 
