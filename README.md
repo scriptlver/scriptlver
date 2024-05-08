@@ -23,7 +23,7 @@
  
  ❣️ estou aprendendo **java e python**
 
- 💗 fato bônus! **sou brasileira e possuo um nível intermediário de inglês. adquiri habilidades em aplicativos de edição, como o after effects e o photoshop, e atualmente estou aprendendo java e python, com ênfase em desenvolvimento de back end.**
+ 💗 sou brasileira e possuo um nível intermediário de inglês. adquiri habilidades em aplicativos de edição, como o **after effects** e o **photoshop**, e atualmente estou aprendendo **java** e **python**, com ênfase em desenvolvimento de **back end**.
 
  </div>
  <div align="center"> 
