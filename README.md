@@ -1,29 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFCAD4"/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💞💗+Hello+World+💗💞;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFCAD4&size=35&center=true&vCenter=true&width=1000&lines=hi!+my+name+is+lavinia+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-<h3 align="center">estudante de sistemas de informação :) </h3>
+i started my degree in **information systems** in 2024, and since then i've worked on projects in both **english** and **portuguese**. 
+using programming languages such as **python** and **java**, 
+with the aim of improving my skills and consolidating my knowledge in the area.
+
+
+</div>
+ <hr/>
+
+ <h2 align="center">⚒️ studying-at-the-moment ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,vscode,python,java,git,github" /><br>
+</div>
 
 <br/>
+<hr/>
 
-<div align="center">
 
- 💞 **18**
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scriptlver&show_icons=true&count_private=true&hide_border=true&title_color=FFCAD4&icon_color=FFCAD4&text_color=c9d1d9&bg_color=0d1117" alt="scriptlver github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlver&layout=compact&hide_border=true&title_color=FFCAD4&text_color=FFCAD4&bg_color=0d1117" />
+</div>
 
- 💌**ela/dela**
-  
- 🩷 estou no primeiro semestre da **universidade**
- 
- ❣️ estou aprendendo **java e python**
+[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=FFCAD4&line=FFCAD4&point=FFCAD4&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
 
- 💗 sou brasileira e possuo um nível intermediário de inglês. adquiri habilidades em aplicativos de edição, como o **after effects** e o **photoshop**, e atualmente estou aprendendo **java** e **python**, com ênfase em desenvolvimento de **back end**.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=scriptlver&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
  </div>
  <div align="center"> 
@@ -33,19 +42,10 @@
 </div>
  <hr/>
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,python,java,html,git,github" /><br>
-</div>
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{scriptlver}/count.svg" /></p> 
+<br></div>
 
-<br/>
-<hr/>
- 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=scriptlver&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=scriptlver&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCAD4&height=120&section=footer"/>
+
