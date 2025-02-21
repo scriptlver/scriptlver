@@ -16,7 +16,7 @@ with the aim of improving my skills and consolidating my knowledge in the area
  <h2 align="center">⚒️ studying-at-the-moment ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,postgresql,postman,html,sql,python,java,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=c,postgresql,postman,html,python,java,git,github" /><br>
 </div>
 
 <br/>
