@@ -13,7 +13,7 @@ with the aim of improving my skills and consolidating my knowledge in the area
 </div>
  <hr/>
 
- <h2 align="center">⚒️ studying-at-the-moment ⚒️</h2>
+ <h2 align="center">⚒️ studying at the moment ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,postgresql,postman,html,python,java,git,github,css" /><br>
@@ -22,7 +22,15 @@ with the aim of improving my skills and consolidating my knowledge in the area
 <br/>
 <hr/>
 
+<div align="center">
 
+<h2>💜 some of my projects 💜</h2>
+
+🔗 [**emails i can’t send**](https://scriptlver.github.io/emails-i-cant-send-/)  
+  a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
+</div>
+
+<hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scriptlver&show_icons=true&count_private=true&hide_border=true&title_color=a66fb5&icon_color=a66fb5&text_color=c9d1d9&bg_color=0d1117" alt="scriptlver github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlver&layout=compact&hide_border=true&title_color=a66fb5&text_color=FFCAD4&bg_color=0d1117" />
