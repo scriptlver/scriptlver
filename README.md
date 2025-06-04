@@ -27,7 +27,7 @@ with the aim of improving my skills and consolidating my knowledge in the area
   <h2>💜 some of my projects 💜</h2>
 
   <p>
-    🔗 <a href="https://scriptlver.github.io/emails-i-cant-send/" target="_blank"><strong>emails i can’t send</strong></a><br>
+    🔗 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
     a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
   </p>
 
