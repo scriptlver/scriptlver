@@ -24,10 +24,18 @@ with the aim of improving my skills and consolidating my knowledge in the area
 
 <div align="center">
 
-<h2>💜 some of my projects 💜</h2>
+  <h2>💜 some of my projects 💜</h2>
 
-🔗 [**emails i can’t send**](https://scriptlver.github.io/emails-i-cant-send-/)  
-  a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
+  <p>
+    🔗 <a href="https://scriptlver.github.io/emails-i-cant-send/" target="_blank"><strong>emails i can’t send</strong></a><br>
+    a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
+  </p>
+
+  <p>
+    🔗 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme website</strong></a><br>
+    a fictitious website for a makeup brand made with HTML & CSS 💕
+  </p>
+
 </div>
 
 <hr/>
