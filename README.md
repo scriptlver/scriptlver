@@ -9,7 +9,6 @@ i started my degree in **information systems** in 2024, and since then i've work
 using programming languages such as **python** and **java**, 
 with the aim of improving my skills and consolidating my knowledge in the area
 
-
 </div>
  <hr/>
 
