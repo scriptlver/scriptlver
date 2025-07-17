@@ -16,7 +16,7 @@ with the aim of improving my skills and consolidating my knowledge in the area
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,postgresql,postman,html,python,java,git,github,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,npm,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=react,npm,spring,express" /><br>
 </div>
 
 <br/>
