@@ -50,18 +50,14 @@ with the aim of improving my skills and consolidating my knowledge in the area
   <img src="https://github-profile-trophy.vercel.app/?username=scriptlver&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<br>
+
  </div>
  <div align="center"> 
   <a href="mailto:riberrlavinia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
- <hr/>
-
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{scriptlver}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a66fb5&height=120&section=footer"/>
 
