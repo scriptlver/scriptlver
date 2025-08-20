@@ -31,9 +31,16 @@ using programming languages, with the aim of improving my skills and consolidati
   </p>
 
   <p>
-    🔗 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme website</strong></a><br>
+    🔗 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme</strong></a><br>
     a fictitious website for a makeup brand made with HTML & CSS 💕
   </p>
+
+  <p>
+    🔗 <a href="https://scriptlver.github.io/projeto-tech-conect/" target="_blank"><strong>techconect</strong></a><br>
+   a fictional tech event website showcasing speakers, workshops, and event information through a modern ✨
+  </p>
+
+ 
 
 </div>
 
