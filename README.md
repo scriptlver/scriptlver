@@ -9,7 +9,6 @@ i started my degree in **information systems** in 2024, and since then i've work
 using programming languages, with the aim of improving my skills and consolidating my knowledge in the area
 
 </div>
- <hr/>
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
 <br/>
@@ -19,7 +18,6 @@ using programming languages, with the aim of improving my skills and consolidati
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
 
@@ -44,7 +42,6 @@ using programming languages, with the aim of improving my skills and consolidati
 
 </div>
 
-<hr/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scriptlver&show_icons=true&count_private=true&hide_border=true&title_color=a66fb5&icon_color=a66fb5&text_color=c9d1d9&bg_color=0d1117" alt="scriptlver github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlver&layout=compact&hide_border=true&title_color=a66fb5&text_color=FFCAD4&bg_color=0d1117" />
