@@ -39,7 +39,7 @@ using programming languages, with the aim of improving my skills and consolidati
   </p>
 
   <p>
-  🔗 <a href="https://scriptlver.github.io/ohtroca-app/" target="_blank"><strong>ohtroca app</strong></a><br>
+  🔗 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca app</strong></a><br>
   an app for swapping mcdonald's toys easily and safely. built using HTML, CSS & javascript 🧸
 </p>
 
