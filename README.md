@@ -55,10 +55,6 @@ using programming languages, with the aim of improving my skills and consolidati
 
 [![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=a66fb5&line=a66fb5&point=a66fb5&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scriptlver&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <br>
 
  </div>
