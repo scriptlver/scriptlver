@@ -62,7 +62,7 @@ using programming languages, with the aim of improving my skills and consolidati
   <a href="mailto:riberrlavinia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://scriptlver.github.io/">
+  <a href="https://scriptlver.github.io/" target="_blank"></a>
   <img src="https://img.shields.io/badge/Portfolio-a66fb5?style=for-the-badge&logo=ghost&logoColor=white" />
 </a>
 
