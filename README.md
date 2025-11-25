@@ -48,11 +48,6 @@ using programming languages, with the aim of improving my skills and consolidati
 
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scriptlver&show_icons=true&count_private=true&hide_border=true&title_color=847ba6&icon_color=847ba6&text_color=c9d1d9&bg_color=0d1117" alt="scriptlver github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlver&layout=compact&hide_border=true&title_color=847ba6&text_color=FFCAD4&bg_color=0d1117" />
-</div>
-
 [![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=847ba6&line=847ba6&point=847ba6&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
 
 <br>
