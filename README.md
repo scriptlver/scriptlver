@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a66fb5"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=847ba6"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a66fb5&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=847ba6&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -49,11 +49,11 @@ using programming languages, with the aim of improving my skills and consolidati
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scriptlver&show_icons=true&count_private=true&hide_border=true&title_color=a66fb5&icon_color=a66fb5&text_color=c9d1d9&bg_color=0d1117" alt="scriptlver github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlver&layout=compact&hide_border=true&title_color=a66fb5&text_color=FFCAD4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scriptlver&show_icons=true&count_private=true&hide_border=true&title_color=847ba6&icon_color=847ba6&text_color=c9d1d9&bg_color=0d1117" alt="scriptlver github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptlver&layout=compact&hide_border=true&title_color=847ba6&text_color=FFCAD4&bg_color=0d1117" />
 </div>
 
-[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=a66fb5&line=a66fb5&point=a66fb5&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
+[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=847ba6&line=847ba6&point=847ba6&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
 
 <br>
 
@@ -64,12 +64,12 @@ using programming languages, with the aim of improving my skills and consolidati
   </a>
   <div align="center">
   <a href="https://scriptlver.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-a66fb5?style=for-the-badge&logo=ghost&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-847ba6?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
 </div>
 
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a66fb5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=847ba6&height=120&section=footer"/>
 
