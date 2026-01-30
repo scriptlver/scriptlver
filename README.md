@@ -6,7 +6,7 @@
 <div align="center">
 
 i started my degree in **information systems** in 2024, and since then i've worked on projects in both **english** and **portuguese**. 
-using programming languages, with the aim of improving my skills and consolidating my knowledge in the area
+using programming languages, with the aim of improving my skills and consolidating my knowledge in the are
 
 </div>
 
