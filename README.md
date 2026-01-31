@@ -14,7 +14,7 @@ using programming languages, with the aim of improving my skills and consolidati
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,postgresql,mysql,postman,html,python,java,git,github,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,npm,spring,nodejs,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,npm,spring,nodejs,figma,googlecloud" /><br>
 </div>
 
 <br/>
