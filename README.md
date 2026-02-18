@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=847ba6"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=847ba6&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BB5BF&size=35&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -60,7 +60,7 @@ using programming languages, with the aim of improving my skills and consolidati
 
 </div>
 
-[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=847ba6&line=847ba6&point=847ba6&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
+[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=9BB5BF&line=9BB5BF&point=847ba6&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
 
 <br>
 
@@ -78,5 +78,5 @@ using programming languages, with the aim of improving my skills and consolidati
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=847ba6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BB5BF&height=120&section=footer"/>
 
