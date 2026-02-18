@@ -4,12 +4,11 @@
   <img src="assets/images/welcome-kapakana.svg" width="400" />
 </p>
 
-<div align="center">
-
-i started my degree in **information systems** in 2024, and since then i have been working on projects in both **english** and **portuguese**. i have experience using different programming languages and tools, always with the goal of improving my technical skills, strengthening my problem-solving abilities, and consolidating my knowledge in software development.
-
+<div align="center" style="max-width:700px; margin:0 auto;">
+  i started my degree in <b>information systems</b> in 2024, and since then i have been working on projects in both <b>english</b> and <b>portuguese</b>. 
+  i have experience using different programming languages and tools, always with the goal of improving my technical skills, strengthening my problem-solving abilities, and consolidating my knowledge in software development.
 </div>
----
+
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
 <br/>
