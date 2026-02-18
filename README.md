@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=BB8ED0"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Handlee&color=BB8ED0&size=32&center=true&vCenter=true&width=1000&lines=welcome+to+my+profile+♡)
-
-
+<p align="center">
+  <img src="assets/images/welcome-kapakana.svg" width="700" />
+</p
 
 <div align="center">
 
