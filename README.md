@@ -15,6 +15,12 @@ using programming languages, with the aim of improving my skills and consolidati
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,postgresql,mysql,postman,html,python,java,git,github,css,javascript,typescript" /><br>
     <img src="https://skillicons.dev/icons?i=react,npm,spring,nodejs,figma,googlecloud" /><br>
+<h2 align="center">⚒️ studying at the moment ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,postgresql,mysql,postman,html,python,java,git,github,css,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,npm,spring,nodejs,figma,googlecloud" /><br>
+</div>    
 </div>
 
 <br/>
