@@ -60,7 +60,7 @@ using programming languages, with the aim of improving my skills and consolidati
 
 </div>
 
-[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=9BB5BF&line=9BB5BF&point=847ba6&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
+[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=9BB5BF&line=9BB5BF&point=9BB5BF&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
 
 <br>
 
