@@ -6,15 +6,11 @@
 
 <div align="center">..
 
-i started my degree in **information systems** in 2024, and since then i've worked on projects in both **english** and **portuguese**. 
-using programming languages, with the aim of improving my skills and consolidating my knowledge in the area
+i started my degree in **information systems** in 2024, and since then i have been working on projects in both **english** and **portuguese**.
+i have experience using different programming languages and tools, always with the goal of improving my technical skills, strengthening my problem-solving abilities, and consolidating my knowledge in software development.
+i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 
 </div>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-iota-murex.vercel.app)](https://open.spotify.com/user/31mx7emupobxvk5nnxx2pgaubwdy?si=739a40acb5014e56)
-
 ---
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
