@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=BB8ED0"/>
 
 <p align="center">
-<img src="assets/images/welcome-kapakana.svg" style="max-width:100pw; width:100%;" />
+  <img src="assets/images/welcome-kapakana.svg" width="250" />
 </p>
 
 <div align="center">..
