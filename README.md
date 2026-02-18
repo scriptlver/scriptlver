@@ -4,9 +4,11 @@
   <img src="assets/images/welcome-kapakana.svg" width="400" />
 </p>
 
-<div align="center">
-i started my degree in **information systems** in 2024, and since then i have been working on projects in both **english** and **portuguese**. i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
+<div align="center" style="max-width:650px; margin:0 auto;">
+  i started my degree in <b>information systems</b> in 2024, and since then i have been working on projects in both <b>english</b> and <b>portuguese</b>.
+  i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 </div>
+
 
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
