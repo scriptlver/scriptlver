@@ -7,7 +7,9 @@
 <div align="center">..
 
 i started my degree in **information systems** in 2024, and since then i have been working on projects in both **english** and **portuguese**.
+
 i have experience using different programming languages and tools, always with the goal of improving my technical skills, strengthening my problem-solving abilities, and consolidating my knowledge in software development.
+
 i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 
 </div>
