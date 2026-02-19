@@ -119,7 +119,7 @@
   <br>
 
   <p align="center">
-  <img src="assets/images/socials.svg" width="150" />
+  <img src="assets/images/socials.svg" width="180" />
   </p>
   <div align="center">
   <a href="mailto:riberrlavinia@gmail.com">
