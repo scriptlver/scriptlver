@@ -60,47 +60,33 @@
 <p align="center">
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/google%20cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/vscode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/after%20effects-9999ff?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/google%20cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25">
 </p>
-
-
-
 </div>    
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-  <h2>💜 some of my projects 💜</h2>
+  <img src="assets/images/projects.svg" width="220" />
+
+  <br><br>
 
   <p>
-    🔗 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
-    a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
+    🔗 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a> — personal/creative website built with HTML & CSS 💌
+    <br><br>
+    🔗 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme</strong></a> — fictitious makeup brand website made with HTML & CSS 💕
+    <br><br>
+    🔗 <a href="https://scriptlver.github.io/projeto-tech-conect/" target="_blank"><strong>techconect</strong></a> — modern fictional tech event showcase ✨
+    <br><br>
+    🔗 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a> — McDonald's toy swapping app built with HTML, CSS & JS 🧸
   </p>
-
-  <p>
-    🔗 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme</strong></a><br>
-    a fictitious website for a makeup brand made with HTML & CSS 💕
-  </p>
-
-  <p>
-    🔗 <a href="https://scriptlver.github.io/projeto-tech-conect/" target="_blank"><strong>techconect</strong></a><br>
-   a fictional tech event website showcasing speakers, workshops, and event information through a modern ✨
-  </p>
-
-  <p>
-  🔗 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
-  an app for swapping mcdonald's toys easily and safely. built using HTML, CSS & javascript 🧸
-</p>
-
-
- 
 
 </div>
 
