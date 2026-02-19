@@ -25,8 +25,7 @@
 
  <h3 align="center">languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript&size=40" />
-
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript" />
 </p>
 
 <h3 align="center">front-end</h3>
@@ -46,7 +45,7 @@
 
 <h3 align="center">tools & cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,figma,googlecloud,vercel,vscode,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubdesktoppostman,npm,figma,googlecloud,vercel,vscode,aftereffects" />
 </p>
 
 </div>    
