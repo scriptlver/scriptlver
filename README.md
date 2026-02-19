@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/development.svg" width="180" />
+  <img src="assets/images/development.svg" width="185" />
   <br>
   <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white" height="25">
