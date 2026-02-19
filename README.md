@@ -69,7 +69,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/design&video-edit.svg" width="275" />
+  <img src="assets/images/design&video-edit.svg" width="280" />
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
