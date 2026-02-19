@@ -9,6 +9,10 @@
   i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 </div>
 
+<p align="center">
+  <img src="assets/images/about-me.svg" width="400" />
+</p>
+
 
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
