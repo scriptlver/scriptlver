@@ -20,6 +20,7 @@
   <b>age:</b> 19<br>
   <b>country:</b> brazil<br>
   <b>languages:</b> portuguese & english<br>
+  <b>favorite artists:</b> stray kids, bts, madison beer & luan santana<br>
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
@@ -74,7 +75,7 @@
 
 
 <div align="center">
-  <img src="assets/images/text-projects.svg" width="130" />
+  <img src="assets/images/text-projects.svg" width="125" />
   <p>
     🔗 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
     a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
