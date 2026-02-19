@@ -124,10 +124,10 @@
   </p>
   <div align="center">
   <a href="mailto:riberrlavinia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-BB8ED0?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://scriptlver.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-847ba6?style=for-the-badge&logo=ghost&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-BB8ED0?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
   </div>
 
