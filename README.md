@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" height="25">
   <br>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
   <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" height="25">
