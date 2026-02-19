@@ -14,6 +14,13 @@
   <img src="assets/images/about-me.svg" width="150" />
 </p>
 
+<div align="center">
+  pronouns: she/her<br>
+  age: 19<br>
+  favorite artists: Stray Kids, Madison Beer, Luan Santana, BTS<br>
+  hobbies: working out, listening to music, coding, sleeping, shopping for clothes and perfumes
+</div>
+
 
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
