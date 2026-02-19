@@ -23,30 +23,41 @@
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
- <h3 align="center">languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript" />
+  <img src="assets/images/languages.svg" width="150" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript&size=40" />
 </p>
 
-<h3 align="center">front-end</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="assets/images/front-end.svg" width="150" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react&size=40" />
 </p>
 
-<h3 align="center">back-end</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+  <img src="assets/images/back-end.svg" width="150" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring&size=40" />
 </p>
 
-<h3 align="center">databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo" />
+  <img src="assets/images/databases.svg" width="150" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo&size=40" />
 </p>
 
-<h3 align="center">tools & cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubdesktop,postman,npm,figma,googlecloud,vercel,vscode,aftereffects" />
+  <img src="assets/images/tools-cloud.svg" width="150" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,figma,googlecloud,vercel,vscode,aftereffects&size=40" />
+</p>
+
 
 </div>    
 </div>
