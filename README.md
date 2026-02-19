@@ -75,7 +75,7 @@
 
 
 <div align="center">
-  <img src="assets/images/text-projects.svg" width="120" />
+  <img src="assets/images/text-projects.svg" width="125" />
   <p>
     🔗 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
     a personal and creative website inspired by the album "emails i can’t send". built using HTML & CSS 💌
