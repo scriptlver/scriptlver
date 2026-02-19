@@ -9,8 +9,8 @@
   i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="assets/images/about-me.svg" width="180" />
+<p align="center" style="margin-top: 203px;">
+  <img src="assets/images/about-me.svg" width="150" />
 </p>
 
 
