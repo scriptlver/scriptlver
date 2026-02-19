@@ -128,10 +128,10 @@
   <a href="https://scriptlver.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/lavinia-d-289973308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seu-instagram/" target="_blank">
+  <a href="https://www.instagram.com/lavisbeirk/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
