@@ -55,7 +55,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/tools-cloud.svg" width="200" />
+  <img src="assets/images/tools-cloud.svg" width="220" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
