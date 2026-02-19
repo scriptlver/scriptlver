@@ -15,13 +15,13 @@
 </p>
 
 <div align="center">
-  <b>Pronouns:</b> <span style="color: purple;">she/her</span><br>
-  <b>Age:</b> 19<br>
-  <b>Favorite artists:</b> Stray Kids, Madison Beer, Luan Santana, BTS<br>
-  <b>Hobbies:</b> working out, listening to music, coding, sleeping, shopping for clothes and perfumes
+  <b>pronouns:</b> she/her<br>
+  <b>age:</b> 19<br>
+  <b>country:</b> brazil<br>
+  <b>languages:</b> portuguese (native), english<br>
+  <b>favorite artists:</b> stray kids, bts, madison beer & luan santana<br>
+  <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
-
-
 
  <h2 align="center">⚒️ studying at the moment ⚒️</h2>
 <br/>
