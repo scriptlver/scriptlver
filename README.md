@@ -23,21 +23,55 @@
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
+<!-- languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
+  <img src="assets/images/languages.svg" width="180" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" height="25">
+  <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
 </p>
 
+<br>
+
+<!-- development -->
 <p align="center">
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="assets/images/development.svg" width="200" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" height="25">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" height="25">
+</p>
+
+<br>
+
+<!-- tools & databases -->
+<p align="center">
+  <img src="assets/images/tools-cloud.svg" width="220" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
+  <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/google%20cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/vscode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/after%20effects-9999ff?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
+</p>
+
 
 
 
