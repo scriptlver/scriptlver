@@ -91,22 +91,22 @@
 
   <p>
     💌 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
-    a personal, creative website inspired by sabrina carpenter's album "emails i can’t send" ✨
+    a personal, creative website inspired by sabrina carpenter's album <strong>emails i can’t send</strong> ✨
   </p>
 
   <p>
     💕 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme</strong></a><br>
-    a playful website for a fictional makeup brand 🪞
+    a playful website for a fictional <strong>makeup</strong> brand 🪞
   </p>
 
   <p>
     ⚡ <a href="https://scriptlver.github.io/projeto-tech-conect/" target="_blank"><strong>techconect</strong></a><br>
-    a modern website for a fictional tech event, showcasing speakers, workshops & event info 🚀
+    a modern website for a fictional tech event, showcasing <strong>speakers</strong>, <strong>workshops</strong> & <strong>event info</strong> 🚀
   </p>
 
   <p>
     🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
-    an app to swap mcdonald's toys safely and easily ✨
+    an app to swap <strong>mcdonald's toys</strong> safely and easily ✨
   </p>
 </div>
 
