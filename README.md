@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/images/about-me.svg" width="400" />
+  <img src="assets/images/about-me.svg" width="100" />
 </p>
 
 
