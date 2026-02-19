@@ -24,38 +24,28 @@
 </div>
 
 <p align="center">
-  <img src="assets/images/languages.svg" width="150" />
+  <img src="assets/images/languages.svg" width="180" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript&size=40" />
 </p>
 
-<p align="center">
-  <img src="assets/images/front-end.svg" width="150" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&size=40" />
-</p>
+<br>
 
 <p align="center">
-  <img src="assets/images/back-end.svg" width="150" />
+  <img src="assets/images/development.svg" width="200" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring&size=40" />
-</p>
-
-<p align="center">
-  <img src="assets/images/databases.svg" width="150" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo&size=40" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring&size=40" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="assets/images/tools-cloud.svg" width="150" />
+  <img src="assets/images/tools-cloud.svg" width="220" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,figma,googlecloud,vercel,vscode,aftereffects&size=40" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,git,github,postman,npm,figma,googlecloud,vercel,vscode,aftereffects&size=40" />
 </p>
 
 
