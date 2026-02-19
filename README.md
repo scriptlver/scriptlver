@@ -23,16 +23,31 @@
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
- <h2 align="center">⚒️ studying at the moment ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,postgresql,mysql,postman,html,python,java,git,github,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,npm,spring,nodejs,figma,googlecloud" /><br>
-<h2 align="center">⚒️ studying at the moment ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,postgresql,mysql,postman,html,python,java,git,github,css,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,npm,spring,nodejs,figma,googlecloud" /><br>
+ <h3 align="center">languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript" />
+</p>
+
+<h3 align="center">front-end</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+<h3 align="center">back-end</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+</p>
+
+<h3 align="center">databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo" />
+</p>
+
+<h3 align="center">tools & cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,figma,googlecloud,vercel,render,aftereffects" />
+</p>
+
 </div>    
 </div>
 
