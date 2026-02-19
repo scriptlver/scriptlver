@@ -21,6 +21,7 @@
   <b>languages:</b> portuguese & english<br>
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
+<br>
 
 <p align="center">
   <img src="assets/images/languages.svg" width="150" />
