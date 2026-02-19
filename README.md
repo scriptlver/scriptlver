@@ -10,6 +10,7 @@
 </div>
 
 <br>
+
 <p align="center">
   <img src="assets/images/about-me.svg" width="150" />
 </p>
@@ -21,6 +22,7 @@
   <b>languages:</b> portuguese & english<br>
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
+
 <br>
 
 <p align="center">
@@ -67,12 +69,10 @@
   <img src="https://img.shields.io/badge/after%20effects-9999ff?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/google%20cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25">
 </p>
-</div>    
-</div>
+
 <br>
 
 <div align="center">
-
   <img src="assets/images/projects.svg" width="220" />
 
   <p>
@@ -91,29 +91,25 @@
   </p>
 
   <p>
-  🔗 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
-  an app for swapping mcdonald's toys easily and safely. built using HTML, CSS & javascript 🧸
-</p>
+    🔗 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
+    an app for swapping mcdonald's toys easily and safely. built using HTML, CSS & javascript 🧸
+  </p>
 
-</div>
+  <br>
 
-[![lavi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=9BB5BF&line=9BB5BF&point=9BB5BF&area=true&hide_border=true)](https://github.com/scriptlver/github-readme-activity-graph)
+  <a href="https://github.com/scriptlver/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=9BB5BF&line=9BB5BF&point=9BB5BF&area=true&hide_border=true" />
+  </a>
 
-<br>
+  <br><br>
 
- </div>
- <div align="center"> 
   <a href="mailto:riberrlavinia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <div align="center">
   <a href="https://scriptlver.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-847ba6?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
-</div>
-
 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BB5BF&height=120&section=footer"/>
-
