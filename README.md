@@ -86,17 +86,17 @@
 
   <p>
     🤍 <a href="https://locket-frontend-xi.vercel.app" target="_blank"><strong>locket</strong></a><br>
-    a project inspired by madison beer's album <strong>locket</strong>. built with react, html & css 🪽
+    a project inspired by madison beer's album <strong>locket</strong> 🪽
   </p>
 
   <p>
     💌 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
-    a personal, creative website inspired by sabrina carpenter's album "emails i can’t send". crafted with html & css ✨
+    a personal, creative website inspired by sabrina carpenter's album "emails i can’t send" ✨
   </p>
 
   <p>
     💕 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme</strong></a><br>
-    a playful website for a fictional makeup brand. designed with html & css 🪞
+    a playful website for a fictional makeup brand 🪞
   </p>
 
   <p>
@@ -106,9 +106,10 @@
 
   <p>
     🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
-    an app to swap mcdonald's toys safely and easily. built with html, css & javascript ✨
+    an app to swap mcdonald's toys safely and easily ✨
   </p>
 </div>
+
 
   <br>
 
