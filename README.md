@@ -20,7 +20,6 @@
   <b>age:</b> 19<br>
   <b>country:</b> brazil<br>
   <b>languages:</b> portuguese & english<br>
-  <b>favorite artists:</b> stray kids, bts, madison beer & luan santana<br>
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
