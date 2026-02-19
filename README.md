@@ -36,14 +36,14 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/development.svg"/>
+  <img src="assets/images/development.svg" width="180" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" height="25">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
 <br>
