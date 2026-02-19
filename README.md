@@ -24,29 +24,21 @@
 </div>
 
 <p align="center">
-  <img src="assets/images/languages.svg" width="180" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,typescript&size=40" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/images/development.svg" width="200" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring&size=40" />
+  <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+</p>
 
-<p align="center">
-  <img src="assets/images/tools-cloud.svg" width="220" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,git,github,postman,npm,figma,googlecloud,vercel,vscode,aftereffects&size=40" />
-</p>
 
 
 </div>    
