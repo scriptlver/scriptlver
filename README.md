@@ -118,18 +118,24 @@
   </a>
 
   <br>
-
-  <p align="center">
+<p align="center">
   <img src="assets/images/socials.svg" width="170" />
-  </p>
-  <div align="center">
+</p>
+<div align="center">
   <a href="mailto:riberrlavinia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-BB8ED0?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://scriptlver.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-BB8ED0?style=for-the-badge&logo=ghost&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
-  </div>
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/seu-instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 
 </div>
 
