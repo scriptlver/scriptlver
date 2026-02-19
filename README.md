@@ -39,11 +39,19 @@
   <img src="assets/images/development.svg" width="180" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="assets/images/development.svg" width="180" />
+  <br>
+  <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" height="25">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/mysql-00000f?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/sqlite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 </p>
 
 <br>
