@@ -84,7 +84,7 @@
 <div align="center">
   <img src="assets/images/text-projects.svg" width="125" />
   <p>
-  🔒 <a href="https://locket-frontend-xi.vercel.app" target="_blank"><strong>locket</strong></a><br>
+  🤍 <a href="https://locket-frontend-xi.vercel.app" target="_blank"><strong>locket</strong></a><br>
   a project inspired by madison beer's album <strong>locket</strong>. built with react, HTML & CSS 🪽
   </p>
 
