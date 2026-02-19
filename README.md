@@ -15,12 +15,11 @@
 </p>
 
 <div align="center">
-  <b>pronouns:</b> she/her<br>
-  <b>age:</b> 19<br>
-  <b>favorite artists:</b> Stray Kids, Madison Beer, Luan Santana, BTS<br>
-  <b>hobbies:</b> working out, listening to music, coding, sleeping, shopping for clothes and perfumes
+  <b>Pronouns:</b> <span style="color: purple;">she/her</span><br>
+  <b>Age:</b> 19<br>
+  <b>Favorite artists:</b> Stray Kids, Madison Beer, Luan Santana, BTS<br>
+  <b>Hobbies:</b> working out, listening to music, coding, sleeping, shopping for clothes and perfumes
 </div>
-
 
 
 
