@@ -99,7 +99,7 @@
   <br>
 
   <a href="https://github.com/scriptlver/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=9BB5BF&line=9BB5BF&point=9BB5BF&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=BB8ED0&line=BB8ED0&point=BB8ED0&area=true&hide_border=true" />
   </a>
 
   <br><br>
@@ -113,4 +113,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BB5BF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
