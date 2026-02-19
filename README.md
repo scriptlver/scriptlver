@@ -55,7 +55,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/tools-cloud.svg" width="230" />
+  <img src="assets/images/tools-cloud.svg" width="225" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
@@ -69,7 +69,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/design&video-edit.svg" width="270" />
+  <img src="assets/images/design&video-edit.svg" width="275" />
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
