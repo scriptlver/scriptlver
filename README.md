@@ -116,7 +116,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=BB8ED0&line=BB8ED0&point=BB8ED0&area=true&hide_border=true" />
   </a>
 
-  <br><br>
+  <br>
+
+  <p align="center">
+  <img src="assets/images/socials.svg" width="150" />
+  </p>
   <div align="center">
   <a href="mailto:riberrlavinia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
