@@ -95,9 +95,9 @@
   </p>
 
   <p>
-    ⚡ <a href="https://scriptlver.github.io/projeto-tech-conect/" target="_blank"><strong>techconect</strong></a><br>
-    a modern website for a fictional tech event, showcasing <strong>speakers</strong>, <strong>workshops</strong> & <strong>event info</strong> 🚀
-  </p>
+  ⚡ <a href="https://github.com/anadrv/app-less-stress/tree/main" target="_blank"><strong>less stress</strong></a><br>
+  a wellness-focused app designed to help users manage <strong>stress</strong>, improve <strong>mental health</strong> & build healthier <strong>daily habits</strong> 🌿
+</p>
 
   <p>
     🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
