@@ -95,11 +95,6 @@
   </p>
 
   <p>
-    💕 <a href="https://scriptlver.github.io/glowme/" target="_blank"><strong>glowme</strong></a><br>
-    a playful website for a fictional <strong>makeup</strong> brand 🪞
-  </p>
-
-  <p>
     ⚡ <a href="https://scriptlver.github.io/projeto-tech-conect/" target="_blank"><strong>techconect</strong></a><br>
     a modern website for a fictional tech event, showcasing <strong>speakers</strong>, <strong>workshops</strong> & <strong>event info</strong> 🚀
   </p>
