@@ -129,9 +129,6 @@
   <a href="https://www.instagram.com/lavisbeirk/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://lavisbeirk-6725d8ea-8958576.postman.co/me/collections" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
 </div>
 
 </div>
