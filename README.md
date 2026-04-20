@@ -115,19 +115,19 @@
   <img src="assets/images/socials.svg" width="170" />
 </p>
 <div align="center">
-  <a href="mailto:riberrlavinia@gmail.com" target="_blank">
+  <a href="mailto:riberrlavinia@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://scriptlver.github.io/" target="_blank">
+<a href="https://scriptlver.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=ghost&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/lavinia-d-289973308/" target="_blank">
+<a href="https://www.linkedin.com/in/lavinia-d-289973308/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.credly.com/users/lavinia-donato-ribeiro" target="_blank">
+<a href="https://www.credly.com/users/lavinia-donato-ribeiro" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Credly-D45900?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/lavisbeirk/" target="_blank">
+<a href="https://www.instagram.com/lavisbeirk/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
