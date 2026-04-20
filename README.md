@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/lavinia-donato-ribeiro" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Credly-D45900?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
   <a href="https://www.instagram.com/lavisbeirk/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
