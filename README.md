@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="assets/images/welcome-kapakana.svg" width="400" />
-</p> 
+</p>
 
 <div align="center">
   i started my degree in <b>information systems</b> in 2024, and since then i have been working on projects in both <b>english</b> and <b>portuguese</b>.
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
 </p>
-
 
 <br>
 
@@ -81,7 +80,6 @@
 
 <br>
 
-
 <div align="center">
   <img src="assets/images/text-projects.svg" width="125" />
 
@@ -106,7 +104,6 @@
   </p>
 </div>
 
-
   <br>
 
   <a href="https://github.com/scriptlver/github-readme-activity-graph">
@@ -127,6 +124,9 @@
   <a href="https://www.linkedin.com/in/lavinia-d-289973308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.credly.com/users/lavinia-donato-ribeiro" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-0A66C2?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
   <a href="https://www.instagram.com/lavisbeirk/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
