@@ -85,7 +85,7 @@
 
   <p>
     ⭐ <a href="https://github.com/anadrv/skyerate-frontend" target="_blank"><strong>skyerate</strong></a><br>
-    media and content rating platform developed with react, node.js, graphql and mongodb 💜
+    <strong>media</strong> and <strong>content rating</strong> platform developed with react, node.js, graphql and mongodb 💜
   </p>
 
   <p>
