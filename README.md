@@ -84,6 +84,11 @@
   <img src="assets/images/text-projects.svg" width="125" />
 
   <p>
+    ⭐ <a href="https://github.com/anadrv/skyerate-frontend" target="_blank"><strong>skyerate</strong></a><br>
+    media and content rating platform developed with react, node.js, graphql and mongodb 💜
+  </p>
+
+  <p>
     🤍 <a href="https://locket-frontend-xi.vercel.app" target="_blank"><strong>locket</strong></a><br>
     a project inspired by madison beer's album <strong>locket</strong> 🪽
   </p>
@@ -102,6 +107,7 @@
     🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
     an app to swap <strong>mcdonald's toys</strong> safely and easily ✨
   </p>
+  
 </div>
 
   <br>
