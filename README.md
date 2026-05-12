@@ -17,7 +17,7 @@
 
 <div align="center">
   <b>pronouns:</b> she/her<br>
-  <b>age:</b> 19<br>
+  <b>age:</b> 20<br>
   <b>country:</b> brazil<br>
   <b>languages:</b> portuguese & english<br>
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
