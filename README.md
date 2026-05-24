@@ -9,9 +9,11 @@
   i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 </div>
 
-<br>
+<br><br>
 
-<h2 align="center">about me 💜</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=300&lines=about+me+💜" />
+</p>
 
 <div align="center">
   <b>pronouns:</b> she/her<br>
@@ -21,9 +23,11 @@
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
-<br>
+<br><br>
 
-<h2 align="center">languages 💻</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=320&lines=languages+💻" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" height="25">
@@ -33,9 +37,11 @@
   <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">development 🛠️</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=360&lines=development+🛠️" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
@@ -49,9 +55,11 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">tools & cloud ☁️</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=380&lines=tools+%26+cloud+☁️" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
@@ -63,18 +71,22 @@
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="25">
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">design & video editing 📷</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=500&lines=design+%26+video+editing+📷" />
+</p>
 
 <p align="center">
    <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
    <img src="https://img.shields.io/badge/After%20Effects-7B5FFF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">projects ✨</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=320&lines=projects+✨" />
+</p>
 
 <div align="center">
 
@@ -105,9 +117,11 @@
 
 </div>
 
-<br>
+<br><br>
 
-<h2 align="center">now playing 🎵</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=360&lines=now+playing+🎵" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -115,7 +129,7 @@
   </a>
 </p>
 
-<br>
+<br><br>
 
 <a href="https://github.com/scriptlver/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=000000&color=BB8ED0&line=BB8ED0&point=BB8ED0&area=true&hide_border=true" />
@@ -123,7 +137,9 @@
 
 <br><br>
 
-<h2 align="center">socials 🔗</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=300&lines=socials+🔗" />
+</p>
 
 <div align="center">
   <a href="mailto:riberrlavinia@gmail.com">
@@ -147,6 +163,6 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
