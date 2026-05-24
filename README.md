@@ -11,9 +11,11 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=300&lines=about+me+💜" />
-</p>
+<div align="center">
+
+# about me 💜
+
+</div>
 
 <div align="center">
   <b>pronouns:</b> she/her<br>
@@ -25,9 +27,11 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=320&lines=languages+💻" />
-</p>
+<div align="center">
+
+# languages 💻
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" height="25">
@@ -39,9 +43,11 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=360&lines=development+🛠️" />
-</p>
+<div align="center">
+
+# development 🛠️
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
@@ -57,9 +63,11 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=380&lines=tools+%26+cloud+☁️" />
-</p>
+<div align="center">
+
+# tools & cloud ☁️
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
@@ -73,9 +81,11 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=500&lines=design+%26+video+editing+📷" />
-</p>
+<div align="center">
+
+# design & video editing 📷
+
+</div>
 
 <p align="center">
    <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
@@ -84,44 +94,46 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=320&lines=projects+✨" />
-</p>
+<div align="center">
+
+# projects ✨
+
+</div>
 
 <div align="center">
 
-  <p>
-    ⭐ <a href="https://github.com/anadrv/skyerate-frontend" target="_blank"><strong>skyerate</strong></a><br>
-    <strong>media</strong> and <strong>content rating</strong> platform developed with react, node.js, graphql and mongodb 💜
-  </p>
+⭐ <a href="https://github.com/anadrv/skyerate-frontend"><strong>skyerate</strong></a><br>
+media and content rating platform developed with react, node.js, graphql and mongodb 💜
 
-  <p>
-    🤍 <a href="https://locket-frontend-xi.vercel.app" target="_blank"><strong>locket</strong></a><br>
-    a project inspired by madison beer's album <strong>locket</strong> 🪽
-  </p>
+<br><br>
 
-  <p>
-    💌 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can't send</strong></a><br>
-    a personal, creative website inspired by sabrina carpenter's album <strong>emails i can't send</strong> ✨
-  </p>
+🤍 <a href="https://locket-frontend-xi.vercel.app"><strong>locket</strong></a><br>
+a project inspired by madison beer's album <strong>locket</strong> 🪽
 
-  <p>
-    ⚡ <a href="https://github.com/anadrv/app-less-stress/tree/main" target="_blank"><strong>less stress</strong></a><br>
-    a wellness-focused app designed to help users manage <strong>stress</strong>, improve <strong>mental health</strong> & build healthier <strong>daily habits</strong> 🌿
-  </p>
+<br><br>
 
-  <p>
-    🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
-    an app to swap <strong>mcdonald's toys</strong> safely and easily ✨
-  </p>
+💌 <a href="https://scriptlver.github.io/emails-i-cant-send-/"><strong>emails i can't send</strong></a><br>
+a personal, creative website inspired by sabrina carpenter's album <strong>emails i can't send</strong> ✨
+
+<br><br>
+
+⚡ <a href="https://github.com/anadrv/app-less-stress/tree/main"><strong>less stress</strong></a><br>
+a wellness-focused app designed to help users manage stress, improve mental health & build healthier daily habits 🌿
+
+<br><br>
+
+🧸 <a href="https://anadrv.github.io/ohtroca-app/"><strong>ohtroca</strong></a><br>
+an app to swap mcdonald's toys safely and easily ✨
 
 </div>
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=360&lines=now+playing+🎵" />
-</p>
+<div align="center">
+
+# now playing 🎵
+
+</div>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -137,28 +149,30 @@
 
 <br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BB8ED0&center=true&vCenter=true&width=300&lines=socials+🔗" />
-</p>
+<div align="center">
+
+# socials 🔗
+
+</div>
 
 <div align="center">
   <a href="mailto:riberrlavinia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://scriptlver.github.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://scriptlver.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/lavinia-d-289973308/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/lavinia-d-289973308/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.credly.com/users/lavinia-donato-ribeiro" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.credly.com/users/lavinia-donato-ribeiro">
     <img src="https://img.shields.io/badge/Credly-D45900?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/lavisbeirk/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/lavisbeirk/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
