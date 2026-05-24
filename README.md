@@ -113,6 +113,7 @@
 
 <div align="center">
   <img src="assets/images/now-playing.svg" width="195" />
+<br>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
