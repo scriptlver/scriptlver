@@ -26,10 +26,9 @@
 
 <br>
 <br>
-<br>
 
 <p align="center">
-  <img src="assets/images/languages.svg" width="160" />
+  <img src="assets/images/languages.svg" width="170" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" height="25">
