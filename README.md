@@ -109,6 +109,7 @@
   
 </div>
 <br>
+<br>
 
 <div align="center">
   <img src="assets/images/now-playing.svg" width="190" />
