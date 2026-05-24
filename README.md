@@ -71,7 +71,6 @@
 </p>
 
 <br>
-<br>
 
 <p align="center">
   <img src="assets/images/design&video-edit.svg" width="290" />
