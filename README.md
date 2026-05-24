@@ -43,6 +43,7 @@
 <p align="center">
   <img src="assets/images/development.svg" width="185" />
   <br>
+  <br>
   <img src="https://img.shields.io/badge/html-e34f26?style=for-the-badge&logo=html5&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/css-1572b6?style=for-the-badge&logo=css3&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" height="25">
@@ -54,6 +55,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
+<br>
 <br>
 
 <p align="center">
