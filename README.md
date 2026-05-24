@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/about-me.svg" width="130" />
+  <img src="assets/images/about-me.svg" width="140" />
 </p>
 
 <div align="center">
