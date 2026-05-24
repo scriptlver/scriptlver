@@ -109,15 +109,16 @@
   </p>
   
 </div>
+<br>
+
+<p align="center">▶ Now Playing</p>
 
 <p align="center">
-  <span style="font-size:11px;color:#b48be0;">♥</span>
-  <span style="font-size:9px;color:#b2b2b2;letter-spacing:0.3px;">playing now</span>
-  <br/>
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" height="60" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
   <br>
 
   <a href="https://github.com/scriptlver/github-readme-activity-graph">
