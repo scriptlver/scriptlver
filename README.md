@@ -83,8 +83,9 @@
   <br>
   <br>
   <p>
-    ⭐ <a href="https://github.com/anadrv/skyerate-frontend" target="_blank"><strong>skyerate</strong></a><br>
-    <strong>media</strong> and <strong>content rating</strong> platform developed with react, node.js, graphql and mongodb 💜
+    ⭐ <strong>skyerate</strong><br>
+    <strong>media</strong> and <strong>content rating</strong> platform developed with react, node.js, graphql and mongodb 💜<br>
+    <a href="https://youtu.be/qGzi_sXfMow?si=SGExOB0czelY_KEE" target="_blank">▶ watch demo</a>
   </p>
 
   <p>
