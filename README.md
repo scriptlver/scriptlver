@@ -9,7 +9,6 @@
   i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 </div>
 
-<br>
 
 <h2 align="center">about me 🌸</h2>
 
@@ -21,7 +20,6 @@
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
-<br>
 
 <h2 align="center">languages 💻</h2>
 
@@ -33,7 +31,6 @@
   <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
 </p>
 
-<br>
 
 <h2 align="center">development 🛠️</h2>
 
@@ -49,7 +46,6 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
-<br>
 
 <h2 align="center">tools & cloud ☁️</h2>
 
@@ -63,7 +59,6 @@
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="25">
 </p>
 
-<br>
 
 <h2 align="center">design & video editing 🎨</h2>
 
@@ -72,7 +67,6 @@
    <img src="https://img.shields.io/badge/After%20Effects-7B5FFF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
 </p>
 
-<br>
 
 <h2 align="center">projects ✨</h2>
 
@@ -105,7 +99,6 @@
   
 </div>
 
-<br>
 
 <h2 align="center">now playing 🎵</h2>
 
@@ -115,13 +108,11 @@
   </a>
 </p>
 
-<br>
 
 <a href="https://github.com/scriptlver/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=BB8ED0&line=BB8ED0&point=BB8ED0&area=true&hide_border=true" />
 </a>
 
-<br>
 
 <h2 align="center">socials 🔗</h2>
 
