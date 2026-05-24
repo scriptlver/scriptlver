@@ -10,6 +10,7 @@
 </div>
 
 <br>
+<br>
 
 <p align="center">
   <img src="assets/images/about-me.svg" width="150" />
