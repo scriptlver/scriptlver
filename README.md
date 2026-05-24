@@ -59,6 +59,7 @@
 
 <p align="center">
   <img src="assets/images/tools-cloud.svg" width="220" />
+  <br>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
