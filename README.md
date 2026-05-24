@@ -76,6 +76,7 @@
 </p>
 
 <br>
+<br>
 
 <div align="center">
   <img src="assets/images/text-projects.svg" width="120" />
