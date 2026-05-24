@@ -111,11 +111,13 @@
 </div>
 <br>
 
-<p align="center">▶ Now Playing</p>
+<p align="center">
+  <b>Now Playing 💜</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" width="400">
   </a>
 </p>
 
