@@ -74,8 +74,9 @@
 <br>
 
 <p align="center">
-  <img src="assets/images/design&video-edit.svg" width="280" />
+  <img src="assets/images/design&video-edit.svg" width="290" />
 </p>
+<br>
 <p align="center">
    <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
    <img src="https://img.shields.io/badge/After%20Effects-7B5FFF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
