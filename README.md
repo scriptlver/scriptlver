@@ -83,9 +83,8 @@
   <br>
   <br>
   <p>
-    ⭐ <strong>skyerate</strong><br>
-    <strong>media</strong> and <strong>content rating</strong> platform developed with react, node.js, graphql and mongodb 💜<br>
-    <a href="https://youtu.be/qGzi_sXfMow?si=SGExOB0czelY_KEE" target="_blank">▶ watch demo</a>
+    ⭐ <a href="https://youtu.be/qGzi_sXfMow?si=SGExOB0czelY_KEE" target="_blank"><strong>skyerate</strong></a><br>
+    <strong>media</strong> and <strong>content rating</strong> platform developed with react, node.js, graphql and mongodb 💜
   </p>
 
   <p>
