@@ -129,6 +129,7 @@
   </a>
 
   <br>
+  <br>
 <p align="center">
   <img src="assets/images/socials.svg" width="170" />
 </p>
@@ -152,4 +153,5 @@
 
 </div>
 
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
