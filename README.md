@@ -79,7 +79,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/images/text-projects.svg" width="130" />
+  <img src="assets/images/text-projects.svg" width="125" />
   <br>
   <br>
 
