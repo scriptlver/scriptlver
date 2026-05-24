@@ -130,6 +130,7 @@
 
   <br>
   <br>
+  <br>
 <p align="center">
   <img src="assets/images/socials.svg" width="170" />
 </p>
