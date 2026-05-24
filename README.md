@@ -84,7 +84,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/images/text-projects.svg" width="125" />
+  <img src="assets/images/text-projects.svg" width="130" />
 
   <p>
     ⭐ <a href="https://github.com/anadrv/skyerate-frontend" target="_blank"><strong>skyerate</strong></a><br>
