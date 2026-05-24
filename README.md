@@ -88,22 +88,17 @@
   </p>
 
   <p>
-    🤍 <a href="https://locket-frontend-xi.vercel.app" target="_blank"><strong>locket</strong></a><br>
+    🤍 <a href="https://youtu.be/ys_g7n42BKc?si=UfOZVUmNvIh98hMJ" target="_blank"><strong>locket</strong></a><br>
     a project inspired by madison beer's album <strong>locket</strong> 🪽
   </p>
 
   <p>
-    💌 <a href="https://scriptlver.github.io/emails-i-cant-send-/" target="_blank"><strong>emails i can’t send</strong></a><br>
-    a personal, creative website inspired by sabrina carpenter's album <strong>emails i can’t send</strong> ✨
-  </p>
-
-  <p>
-  ⚡ <a href="https://github.com/anadrv/app-less-stress/tree/main" target="_blank"><strong>less stress</strong></a><br>
+  ⚡ <a href="https://youtu.be/g1kncp3oObA?si=9j_rxinKqw2QgVEI" target="_blank"><strong>less stress</strong></a><br>
   a wellness-focused app designed to help users manage <strong>stress</strong>, improve <strong>mental health</strong> & build healthier <strong>daily habits</strong> 🌿
 </p>
 
   <p>
-    🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
+    🧸 <a href="https://youtu.be/ynJ3VfD7cF4?si=5ZgBlHtJPn4omdte" target="_blank"><strong>ohtroca</strong></a><br>
     an app to swap <strong>mcdonald's toys</strong> safely and easily ✨
   </p>
   
