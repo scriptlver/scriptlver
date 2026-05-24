@@ -112,11 +112,11 @@
 <br>
 
 <div align="center">
-  <img src="assets/images/now-playing.svg" width="125" />
+  <img src="assets/images/now-playing.svg" width="230" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7d618d&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7d618d&bar_color_cover=false" width="400">
   </a>
 </p>
 </div>
