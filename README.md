@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=BB8ED0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=BB8ED0"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB8ED0&center=true&vCenter=true&width=500&lines=welcome+to+my+profile" alt="Typing SVG" />
@@ -9,8 +9,9 @@
   i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
 </div>
 
+<br>
 
-<h2 align="center">about me 🌸</h2>
+<h2 align="center">about me 💜</h2>
 
 <div align="center">
   <b>pronouns:</b> she/her<br>
@@ -20,6 +21,7 @@
   <b>hobbies:</b> working out, listening to music, coding, sleeping, clothes and perfumes
 </div>
 
+<br>
 
 <h2 align="center">languages 💻</h2>
 
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" height="25">
 </p>
 
+<br>
 
 <h2 align="center">development 🛠️</h2>
 
@@ -46,6 +49,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
+<br>
 
 <h2 align="center">tools & cloud ☁️</h2>
 
@@ -59,14 +63,16 @@
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="25">
 </p>
 
+<br>
 
-<h2 align="center">design & video editing 🎨</h2>
+<h2 align="center">design & video editing 📷</h2>
 
 <p align="center">
    <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="25">
    <img src="https://img.shields.io/badge/After%20Effects-7B5FFF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="25">
 </p>
 
+<br>
 
 <h2 align="center">projects ✨</h2>
 
@@ -96,9 +102,10 @@
     🧸 <a href="https://anadrv.github.io/ohtroca-app/" target="_blank"><strong>ohtroca</strong></a><br>
     an app to swap <strong>mcdonald's toys</strong> safely and easily ✨
   </p>
-  
+
 </div>
 
+<br>
 
 <h2 align="center">now playing 🎵</h2>
 
@@ -108,11 +115,13 @@
   </a>
 </p>
 
+<br>
 
 <a href="https://github.com/scriptlver/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=00000&color=BB8ED0&line=BB8ED0&point=BB8ED0&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptlver&bg_color=000000&color=BB8ED0&line=BB8ED0&point=BB8ED0&area=true&hide_border=true" />
 </a>
 
+<br><br>
 
 <h2 align="center">socials 🔗</h2>
 
@@ -120,18 +129,24 @@
   <a href="mailto:riberrlavinia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://scriptlver.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=ghost&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/lavinia-d-289973308/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.credly.com/users/lavinia-donato-ribeiro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Credly-D45900?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/lavisbeirk/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
