@@ -149,7 +149,10 @@
 </div>
 
 </div>
-![snake gif](https://github.com/scriptlver/scriptlver/blob/output/github-snake-dark.svg)
+
+<p align="center">
+  <img src="https://github.com/scriptlver/scriptlver/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
 
 
 <br>
