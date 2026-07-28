@@ -149,6 +149,8 @@
 </div>
 
 </div>
+![snake gif](https://github.com/scriptlver/scriptlver/blob/output/github-snake-dark.svg)
+
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
