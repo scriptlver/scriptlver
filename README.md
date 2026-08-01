@@ -155,5 +155,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/scriptlver/scriptlver/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
+
+
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
