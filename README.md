@@ -92,6 +92,11 @@
     a project inspired by madison beer's album <strong>locket</strong> 🪽
   </p>
 
+<p>
+   💗 <a href="https://youtu.be/pskhIMdbCp0" target="_blank"><strong>MochiPlush</strong></a><br>
+  a fictional plush store application developed to combine <strong>design</strong>, <strong>usability</strong> & <strong>front-end development</strong> into a modern and intuitive user experience ✨
+</p>
+
   <p>
   ⚡ <a href="https://youtu.be/g1kncp3oObA?si=9j_rxinKqw2QgVEI" target="_blank"><strong>less stress</strong></a><br>
   a wellness-focused app designed to help users manage <strong>stress</strong>, improve <strong>mental health</strong> & build healthier <strong>daily habits</strong> 🌿
