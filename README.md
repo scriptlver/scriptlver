@@ -93,7 +93,7 @@
   </p>
 
 <p>
-  💗 <a href="https://youtu.be/pskhIMdbCp0" target="_blank"><strong>MochiPlush</strong></a><br>
+  💗 <a href="https://youtu.be/pskhIMdbCp0" target="_blank"><strong>mochiplush</strong></a><br>
   a fictional plush store built with <strong>modern design</strong>, <strong>usability</strong> & <strong>front-end development</strong> ✨
 </p>
 
