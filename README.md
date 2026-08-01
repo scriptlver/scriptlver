@@ -93,8 +93,8 @@
   </p>
 
 <p>
-   💗 <a href="https://youtu.be/pskhIMdbCp0" target="_blank"><strong>MochiPlush</strong></a><br>
-  a fictional plush store application developed to combine <strong>design</strong>, <strong>usability</strong> & <strong>front-end development</strong> into a modern and intuitive user experience ✨
+  💗 <a href="https://youtu.be/pskhIMdbCp0" target="_blank"><strong>MochiPlush</strong></a><br>
+  a fictional plush store built with <strong>modern design</strong>, <strong>usability</strong> & <strong>front-end development</strong> ✨
 </p>
 
   <p>
@@ -158,7 +158,6 @@
 <p align="center">
   <img src="https://github.com/scriptlver/scriptlver/blob/output/github-snake-dark.svg" alt="GitHub Snake" />
 </p>
-
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BB8ED0&height=120&section=footer"/>
