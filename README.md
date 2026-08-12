@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/lovable-ff69b4?style=for-the-badge&logo=lovable&logoColor=white" height="25">
 </p>
 
 <br>
@@ -68,13 +67,13 @@
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="25">
-  
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25">
   <br>
   <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/vscode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/google%20cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/lovable-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white" height="25">
 </p>
 
 <br>
