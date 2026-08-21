@@ -3,7 +3,6 @@
 <p align="center">
   <img src="assets/images/welcome-kapakana.svg" width="380" />
 </p>
-
 <div align="center">
   i started my degree in <b>information systems</b> in 2024, and since then i have been working on projects in both <b>english</b> and <b>portuguese</b>.
   i enjoy learning in practice, exploring new technologies, and continuously challenging myself through personal and academic projects.
