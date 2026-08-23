@@ -114,7 +114,6 @@
     🧸 <a href="https://youtu.be/ynJ3VfD7cF4?si=5ZgBlHtJPn4omdte" target="_blank"><strong>ohtroca</strong></a><br>
     an app to swap <strong>mcdonald's toys</strong> safely and easily ✨
   </p>
-  
 </div>
 <br>
 <br>
@@ -122,7 +121,6 @@
 <div align="center">
   <img src="assets/images/now-playing.svg" width="195" />
 <br>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mx7emupobxvk5nnxx2pgaubwdy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=7d618d&bar_color_cover=false" width="450">
