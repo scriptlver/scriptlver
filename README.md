@@ -150,6 +150,9 @@
 <a href="https://www.instagram.com/lavisbeirk/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+  <a href="https://gitlab.com/scriptlver" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
 </div>
 
 </div>
